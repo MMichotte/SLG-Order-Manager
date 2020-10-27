@@ -1,4 +1,0 @@
-OUTPUT_path;OUTPUT/
-Data_path;Data/
-PDF_header;PDF_header.jpg
-PDF_footer;PDF_footer.jpg
