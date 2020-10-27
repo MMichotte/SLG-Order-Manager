@@ -1,3 +1,5 @@
 private
 backup
 venv
+releases/*
+!releases/latest.zip
